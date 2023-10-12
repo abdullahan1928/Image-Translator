@@ -1,0 +1,8 @@
+# all picture files
+
+*.jpg
+*.png
+*.jpeg
+*.gif
+
+credentials.json
